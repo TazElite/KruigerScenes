@@ -2,9 +2,9 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-author 'KruigerLabs'
+author 'Kruiger Labs LLC'
 name 'KruigerScenes'
-description 'Standalone synchronized RP scene and evidence description system.'
+description 'Free synchronized FiveM scene and evidence script with roleplay descriptions and persistence.'
 version '1.0.0'
 
 shared_script 'config/config.lua'
