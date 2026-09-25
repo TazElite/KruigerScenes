@@ -38,3 +38,7 @@ add_ace group.admin kruiger.scenes.manage allow
 
 ## License
 MIT License — Copyright (c) 2026 KruigerLabs. See `LICENSE` for the repository's complete license terms.
+
+## Kruiger Labs
+
+**Project Page:** https://kruigerlabs.xyz/projects/KruigerScenes/
